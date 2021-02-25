@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning about text mining and machine learning in general.
 - ⌨️ I am interested in usage, repair, maintenance and modding of mechanical keyboards. I own several.
 - 💬 You can ask me about anything you want.
-- 📫 You can always send an e-mail to me at mallimehmet@gmail.com.
+- 📫 You can always send an e-mail to me at [mallimehmet@gmail.com](mailto:mallimehmet@gmail.com).
