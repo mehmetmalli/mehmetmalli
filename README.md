@@ -1,7 +1,7 @@
 ## Here are a few quick facts about me: 
 
 
-- 👨‍💻 I’m currently working at [Kentkart](https://www.kentkart.com/) as a System Engineer.
+- 👨‍💻 I’m currently working at [Kentkart](https://www.kentkart.com/) as a Systems Engineer.
 - 🎓 I am currently studying M.Sc. Computer Engineering at Dokuz Eylül University.
 - 👨‍🎓 I have graduated from Izmir University of Economics, B.Sc. Software Engineering.
 - 🌱 I’m actively learning new technologies.
