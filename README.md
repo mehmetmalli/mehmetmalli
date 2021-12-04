@@ -14,3 +14,5 @@
 - [GitLab](https://gitlab.com/mehmetmalli)
 - [LinkedIn](https://www.linkedin.com/in/mehmetmalli)
 - [Instagram](https://www.instagram.com/mehmetmalli)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetmalli" alt="mehmetmalli" /> </p>
