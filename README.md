@@ -1,7 +1,7 @@
 ## Here are a few quick facts about me: 
 
 
-- 👨‍💻 I'm currently working for [Kentkart](https://www.kentkart.com/) as a Systems Engineer.
+- 👨‍💻 I'm currently working for [Trendyol](https://www.trendyol.com/) as a Software Engineer.
 - 🎓 I'm currently studying M.Sc. Computer Engineering at Dokuz Eylül University.
 - 🎓 I have graduated from Izmir University of Economics, B.Sc. Software Engineering.
 - 🌱 I'm actively learning new technologies.
