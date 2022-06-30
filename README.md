@@ -2,7 +2,6 @@
 
 
 - 👨‍💻 I'm currently working for [Trendyol](https://www.trendyol.com/whoweare) as a Software Engineer.
-- 🎓 I'm currently studying M.Sc. Computer Engineering at Dokuz Eylül University.
 - 🎓 I have graduated from Izmir University of Economics, B.Sc. Software Engineering.
 - 🌱 I'm actively learning new technologies.
 - ⌨️ I'm interested in usage, repair, maintenance and modding of mechanical keyboards. I own several.
