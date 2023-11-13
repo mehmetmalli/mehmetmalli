@@ -1,13 +1,15 @@
-## Here are a few quick facts about me: 
+## Welcome to my profile !
 
+### I am:
+- 👨‍💻 currently working for [Trendyol](https://www.trendyol.com/whoweare) as a Software Engineer.
+- 🎓 a graduate of Izmir University of Economics, B.Sc. Software Engineering.
+- 🌱 actively learning new technologies.
+- ⌨️ interested in usage, repair, maintenance and modding of mechanical keyboards. I own several.
+- ⚙️ into amateur radio and 3D printing.
 
-- 👨‍💻 I'm currently working for [Trendyol](https://www.trendyol.com/whoweare) as a Software Engineer.
-- 🎓 I have graduated from Izmir University of Economics, B.Sc. Software Engineering.
-- 🌱 I'm actively learning new technologies.
-- ⌨️ I'm interested in usage, repair, maintenance and modding of mechanical keyboards. I own several.
-- 💬 You can ask me about anything you want.
-- 📫 You can always send an e-mail to me at [mallimehmet@gmail.com](mailto:mallimehmet@gmail.com).
-- 🌐 You can visit my personal website at [mehmetmalli.com.tr](https://mehmetmalli.com.tr).
+### You can:
+- 📫 send an e-mail to me at [mallimehmet@gmail.com](mailto:mallimehmet@gmail.com).
+- 🌐 visit my personal website at [mehmetmalli.com.tr](https://mehmetmalli.com.tr).
 
 ## You can find me on: 
 - [GitLab](https://gitlab.com/mehmetmalli)
