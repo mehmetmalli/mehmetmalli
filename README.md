@@ -11,7 +11,7 @@
 - 📫 send an e-mail to me at [mallimehmet@gmail.com](mailto:mallimehmet@gmail.com).
 - 🌐 visit my personal website at [mehmetmalli.com.tr](https://mehmetmalli.com.tr).
 
-## You can find me on: 
+## Find me on: 
 - [GitLab](https://gitlab.com/mehmetmalli)
 - [LinkedIn](https://www.linkedin.com/in/mehmetmalli)
 - [Instagram](https://www.instagram.com/mehmetmalli)
