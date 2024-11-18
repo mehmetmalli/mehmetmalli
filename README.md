@@ -15,6 +15,6 @@
 - [GitLab](https://gitlab.com/mehmetmalli)
 - [LinkedIn](https://www.linkedin.com/in/mehmetmalli)
 - [Instagram](https://www.instagram.com/mehmetmalli)
-- [QRZ](https://www.qrz.com/db/TA3SMM)
+- [QRZ](https://www.qrz.com/db/TA3JS)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetmalli" alt="mehmetmalli" /> </div>
