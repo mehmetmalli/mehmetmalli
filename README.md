@@ -1,7 +1,7 @@
 ## Welcome to my profile !
 
 ### I am:
-- 🇹🇷 Turkish, living in İzmir.
+- 🇹🇷 Turkish, living in Berlin 🇩🇪.
 - 👨‍💻 working for [Bliq GmbH](https://bliq.app) as a Software Engineer.
 - 🎓 a 2020 graduate of Izmir University of Economics, B.Sc. Software Engineering.
 - 🌱 learning new things everyday.
